@@ -1,113 +1,113 @@
 [[Leptonica]]
 arch = "i686"
-git-tree-sha1 = "cbd59684f87b9f2f6e5b8949e923147cf6178fd4"
+git-tree-sha1 = "c41ef1b67179b1a5c328094fec10bd995c1337df"
 libc = "musl"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "775c0c8a7fe087ac490d12c8598195c057abcd795e2ccf9245304c679d022aa2"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.i686-linux-musl.tar.gz"
+    sha256 = "6ef9e537f5ecc491090a33f6c2f7b61af380c8a1e7d6d43a5c1ab0546f5cb44e"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.i686-linux-musl.tar.gz"
 [[Leptonica]]
 arch = "aarch64"
-git-tree-sha1 = "6a5fc8328f3697a275370298a0d6bf70f627e6ae"
+git-tree-sha1 = "e8bcdd057060282bbe74edeb34402d5c13988231"
 libc = "musl"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "25d078d6ef99112b66305f38464853237a40b556c11f7e65e719e3b7ba5cfda0"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.aarch64-linux-musl.tar.gz"
+    sha256 = "faeb8816b4396742e614b213b7eaefb094cb6667f676ecdc9588d18c58fb7f76"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.aarch64-linux-musl.tar.gz"
 [[Leptonica]]
 arch = "i686"
-git-tree-sha1 = "88a133900489a33c97124a6492327e86225850b0"
+git-tree-sha1 = "9e9a5e2c184a1504ed5ef7d94357a7937b682c52"
 os = "windows"
 
     [[Leptonica.download]]
-    sha256 = "00cc13953a43c36fad608766bf471f316e1ab0f99db142b8e110f63d16d29675"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.i686-w64-mingw32.tar.gz"
+    sha256 = "59d897334a5daeb8d17ccb05e0ead6f3eb4f949464999c718c6c62065d1e70fb"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.i686-w64-mingw32.tar.gz"
 [[Leptonica]]
 arch = "x86_64"
-git-tree-sha1 = "0ac0f566cd8b842a9d156dc7cd569a1d206a29a7"
+git-tree-sha1 = "c61b93990091252de9dba6aca2c2ed812a68283b"
 os = "windows"
 
     [[Leptonica.download]]
-    sha256 = "e5b8ac0110d0df30d8a15f669206fddcf8af866dc23fb2c33e373ea7ce1ab323"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "bd9f47bffa5fee7ce81bde57afb778aaf30a6a59464c1f20eec12459f9bb48dd"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-w64-mingw32.tar.gz"
 [[Leptonica]]
 arch = "armv7l"
-git-tree-sha1 = "d3f7f72bb3ec6dbd03a3e938f6ef8ae64bf7e743"
+git-tree-sha1 = "ae866005cc7f6204a6c619b29a7bbb3a767f0383"
 libc = "glibc"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "4d72f3590e5ab441a660ed8e6993858690934a565c42070b9206125b5bc79cf9"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "d1152b85d4bfa9fb60648a9b51066e5f1089b6cc902308ee190385d8639f6cbf"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.armv7l-linux-gnueabihf.tar.gz"
 [[Leptonica]]
 arch = "armv7l"
-git-tree-sha1 = "e919b0f15c1341cab1e9aae03feb39f649702395"
+git-tree-sha1 = "d72650c2c176c487908d7b88c8fe0d6a6793371b"
 libc = "musl"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "8137832631655620da80dc2f743ae8b69693e82dcbbf2084a90e90976475a013"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "17c6678db5c1b567e63207b7d11fca5a181b20014cffd4604890dbbe748f56e6"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.armv7l-linux-musleabihf.tar.gz"
 [[Leptonica]]
 arch = "i686"
-git-tree-sha1 = "43f49117a2e860ceeca9a1d17dd149f0451a5f68"
+git-tree-sha1 = "698118ad750a61b1020d58777f0d431ee34c5da8"
 libc = "glibc"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "1af84ce7e405838d5496f499b3e50671c09f9a5369bdf0efac84abdb95d40bd0"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.i686-linux-gnu.tar.gz"
+    sha256 = "81d20a9aeb88072b61bfb4e328ab086ff7b160788221b1879adfb821c9f2ae54"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.i686-linux-gnu.tar.gz"
 [[Leptonica]]
 arch = "x86_64"
-git-tree-sha1 = "d0f86a612e2be3570b57846915c4120ca8040d4d"
+git-tree-sha1 = "568c691dc012e9187f9956e4f352f0ae3b1abef4"
 libc = "glibc"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "64771959b1749e74a49c35e6fbfd98726a5bafa648b9638862b0054abdd2022f"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "d9d44bde04403afecc7d3373ad76cc8f2e577f6813043913f8e2a9a362fbe138"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-linux-gnu.tar.gz"
 [[Leptonica]]
 arch = "powerpc64le"
-git-tree-sha1 = "606d77844f0fecd3be84f1724d8470df89256173"
+git-tree-sha1 = "222d006f5e17eb4406cc94495a5b3d8b773dc70b"
 libc = "glibc"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "888059467176d8af1f0afc63583f36e59f9d1f890ada18c8b6b3005224544269"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "6235612ab43ec7101f6db446b962c83822163c0bf4c85e4e38083a803363d7c8"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.powerpc64le-linux-gnu.tar.gz"
 [[Leptonica]]
 arch = "x86_64"
-git-tree-sha1 = "76b11cac43b5d3abc08c409eedde3a67d118417a"
+git-tree-sha1 = "3e0fd6b8cc8d120ed2ef0758b3d8ff8c9719a7d9"
 os = "macos"
 
     [[Leptonica.download]]
-    sha256 = "c99702f394cf71a35de02c49d198a6994c1b5200471a949bb639ceb5c8efa156"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.x86_64-apple-darwin14.tar.gz"
+    sha256 = "3a3d4be82a16623ed6c27202a1e55fdafd0e6dfc2c88a539531e3aef4b548691"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-apple-darwin14.tar.gz"
 [[Leptonica]]
 arch = "aarch64"
-git-tree-sha1 = "e599179ee7fbda7cf92cfdf45c63bdc1ac10b33c"
+git-tree-sha1 = "f7866256fb9de2b178f75924554d72af0a9df779"
 libc = "glibc"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "2e5401bb4ff6138e95c16032eb8234382bb00d04376390c7b9a039d5f933d6bb"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "07a9cdd4f216405303a7c260c0941aa7944a8960a9a06aa1fe21ff1f38da010b"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.aarch64-linux-gnu.tar.gz"
 [[Leptonica]]
 arch = "x86_64"
-git-tree-sha1 = "cf2acfeb9f2f19d3155d3f711478b1d7720993ea"
+git-tree-sha1 = "640ded50d971e5ba58ee0349d516d125453ae954"
 os = "freebsd"
 
     [[Leptonica.download]]
-    sha256 = "d084fe7ef3fb28a1708f160eda1a7e7a38f92a8ada5550b8c90ccf5d4991bfb0"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "ed92c2d0ee994972a8931241091138dfaf70654a3bde83108b3e6dfcf54061e9"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-unknown-freebsd11.1.tar.gz"
 [[Leptonica]]
 arch = "x86_64"
-git-tree-sha1 = "5ae099d1bc7628d43c6b0bfac832c87a30db081b"
+git-tree-sha1 = "8ed4df5cfac4d4fe9b653ece09f0161cb2daffd9"
 libc = "musl"
 os = "linux"
 
     [[Leptonica.download]]
-    sha256 = "a4604a12b6bc23d77cd21dd616852950e4f2560fb9ddaba87e13bb3c4bc657ab"
-    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+0/Leptonica.v1.79.0.x86_64-linux-musl.tar.gz"
+    sha256 = "bad4ccb198433d4c92ba994fc6674c3887b36775bd9d8688f84e15f957535c74"
+    url = "https://github.com/JuliaBinaryWrappers/Leptonica_jll.jl/releases/download/Leptonica-v1.79.0+1/Leptonica.v1.79.0.x86_64-linux-musl.tar.gz"
