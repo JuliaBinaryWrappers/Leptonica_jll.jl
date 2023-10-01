@@ -9,7 +9,7 @@ using libwebp_jll
 using Zlib_jll
 using OpenJpeg_jll
 JLLWrappers.@generate_wrapper_header("Leptonica")
-JLLWrappers.@declare_library_product(liblept, "liblept-5.dll")
+JLLWrappers.@declare_library_product(liblept, "libleptonica-6.dll")
 JLLWrappers.@declare_executable_product(convertfilestopdf)
 JLLWrappers.@declare_executable_product(convertfilestops)
 JLLWrappers.@declare_executable_product(convertformat)
@@ -24,7 +24,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Giflib_jll, JpegTurbo_jll, libpng_jll, Libtiff_jll, libwebp_jll, Zlib_jll, OpenJpeg_jll)
     JLLWrappers.@init_library_product(
         liblept,
-        "bin\\liblept-5.dll",
+        "bin\\libleptonica-6.dll",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
