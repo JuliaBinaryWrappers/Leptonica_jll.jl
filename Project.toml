@@ -1,6 +1,6 @@
 name = "Leptonica_jll"
 uuid = "6a1430e4-294a-53a5-a485-ec66ef6b843c"
-version = "1.83.1+0"
+version = "1.85.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -15,8 +15,10 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 Giflib_jll = "59f7168a-df46-5410-90c8-f2779963d0ec"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
 OpenJpeg_jll = "~2.5.0"
 libwebp_jll = "1.2.4"
-Libtiff_jll = "~4.5.1"
+Libdl = "< 0.0.1, 1"
+Libtiff_jll = "4.7"
+Artifacts = "< 0.0.1, 1"
